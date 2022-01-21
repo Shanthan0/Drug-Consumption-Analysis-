@@ -1,5 +1,7 @@
 # Drug-Consumption-Analysis-
 
+The data set that I used consists of 1885 respondents and for each individual, we have collected scores based on their personality measurements. The individual levels of consumption of some drugs like Coke, Heroin, Amphet, Benzos are taken. We have classified individual consumption levels as Never Used, Used over a decade ago, Used in the last decade, Used in last year, Used in last month, Used in last week, Used in last day. In order to determine the consumption levels, I have used two classification algorithms namely Naïve Bayes Random Forest and Support Vector Machine (SVM)
+
 DRUG use is the major threat that hinders the growth of our country. Drug consumption effects the health of a person. A person’s personality profile can be used to determine whether
 he can be a drug user on not. Personality measurements are Neuroticism, Extraversion, Openness to Experience, Agreeableness and Conscientiousness
 Personality measurements are as follows:
