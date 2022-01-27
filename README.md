@@ -54,3 +54,12 @@ Dataset Link - https://ml.azure.com/fileexplorerAzNB?wsid=/subscriptions/6166b34
 
 ![image](https://user-images.githubusercontent.com/68529782/151414964-9907403f-e11e-4852-8c10-07a127c715dc.png)
 
+SCREENSHOTS
+
+![image](https://user-images.githubusercontent.com/68529782/151419846-2d43af4b-8f1e-46cb-9e51-bf6b065d9eae.png)
+
+
+![image](https://user-images.githubusercontent.com/68529782/151419799-e3bf38bd-e929-4896-9a44-8f1e16116d1c.png)
+
+![image](https://user-images.githubusercontent.com/68529782/151419943-6463f027-00cc-4b07-bafa-5c2de78e2721.png)
+
