@@ -14,13 +14,13 @@ Personality measurements are as follows:
 
 The data set that I used consists of 1885 respondents and for each individual, I have collected scores based on their personality measurements. The individual levels of consumption of some drugs like Coke, Heroin, Amphet, Benzos are taken. I have classified individual consumption levels as Never Used, Used over a decade ago, Used in the last decade, Used in last year, Used in last month, Used in last week, Used in last day. In order to determine the consumption levels, I have used two classification algorithms namely Random Forest and Support Vector Machine (SVM)
 
-CL0 represents that an individual never used particular drug.
-CL1 represents that the individual used it over a decade ago.
-CL2 represents that the individual used it in the last decade.
-CL3 represents that the individual used a year ago.
-CL4 represents that the individual used in the last year.
-CL5 represents that the individual used in the last week.
-CL6 represents that the individual used last day.
+ CL0 represents that an individual never used particular drug.
+ CL1 represents that the individual used it over a decade ago.
+ CL2 represents that the individual used it in the last decade.
+ CL3 represents that the individual used a year ago.
+ CL4 represents that the individual used in the last year.
+ CL5 represents that the individual used in the last week.
+ CL6 represents that the individual used last day.
 
 So in order to determine the consumption level of an individual based on their personality scores we have used four machine learning classification techniques.
 
