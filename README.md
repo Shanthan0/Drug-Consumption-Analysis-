@@ -26,10 +26,6 @@ So in order to determine the consumption level of an individual based on their p
 
 I used Azure notebooks to execute my project with following steps.
 
-Notebook Link - https://ml.azure.com/fileexplorerAzNB?wsid=/subscriptions/6166b34b-f2a6-45f0-a8a4-411c20cdc8ab/resourcegroups/RGdrugconsumption/workspaces/WSdrugconsumption&tid=d4963ce2-af94-4122-95a9-644e8b01624d&activeFilePath=Users/kuthurusree.shanthan2019/drug_consumption_prediction.ipynb
-
-Dataset Link - https://ml.azure.com/fileexplorerAzNB?wsid=/subscriptions/6166b34b-f2a6-45f0-a8a4-411c20cdc8ab/resourcegroups/RGdrugconsumption/workspaces/WSdrugconsumption&tid=d4963ce2-af94-4122-95a9-644e8b01624d&activeFilePath=Users/kuthurusree.shanthan2019/drug_consumption(1).csv
-
 1. Create a resource group in AI + Machine Learning category with product as Machine Learning
 
 ![image](https://user-images.githubusercontent.com/68529782/151414113-2ef3ef15-12ef-4dd0-b67a-1a3977055a0b.png)
