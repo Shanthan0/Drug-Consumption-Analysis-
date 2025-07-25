@@ -1,6 +1,5 @@
 # Drug-Consumption-Analysis
 
-Project demo - https://youtu.be/sf6Y1eu_B98
 
 The main objective is to determine the risk of drug consumption of individual. Drug consumption effects the health of a person. A person’s personality profile can be used to determine whether he can be a drug user on not. Personality measurements are Neuroticism, Extraversion, Openness to Experience, Agreeableness and Conscientiousness
 
